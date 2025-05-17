@@ -1,2 +1,2 @@
-# Median_Transport_Price_by_Geo
+# Median Transport Price by Geography
 Using data from the US Census and price information to assess transportation accessibility. 
